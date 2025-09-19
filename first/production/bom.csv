@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_2, ",,2,,
+"BT1, BT2",Battery,2,Battery_Cell,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D5, D6, D7, D8, D9",Diode_DO-35,48,Diode,
+"RSTL1, RSTR1",SW_Slide_SPDT_Straight_CK_OS102011MS2Q,2,Switch,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S3, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S4, S40, S41, S42, S43, S44, S45, S46, S47, S48, S5, S6, S7, S8, S9",SW_Gateron_LowProfile_HotSwap_THT,48,Keyswitch,
+"U1, U2",Nice_Nano_V2,2,Nice_Nano_V2,
